@@ -17,10 +17,11 @@ Hi, Im Joe and I'm a junior full stack developer. I'm based in the East Midlands
 
 <br>
 🌤Outside of coding:
-
-⚽️ I play for a local football team.
-🏋🏻 I go to the gym regularly.
+<br><br>
+⚽️ I play for a local football team. <br>
+🏋🏻 I go to the gym regularly. <br>
 🎮 I enjoy gaming in my spare time.
+<br><br>
 
 [
 ![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joebrentnall25)](https://github.com/joebrentnall25/github-readme-stats).
